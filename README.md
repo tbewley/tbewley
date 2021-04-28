@@ -3,7 +3,7 @@
 - 📖 Renaissance Robotics: embedding multithreaded real-time feedback into mobile robots and cyber-physical systems
 - 📖 Numerical Renaissance: simulation, optimization, and control
 - I am using this github repository to store all the codes associated with these two texts (RR and NR),
-- in addition to (time permitting) various other projects I am working on that I'd like to share with the world. 
+- in addition (time permitting) to various other projects I am working on that I'd like to share with the world. 
 - 📫 Please reach out to me at bewley@eng.ucsd.edu with details regarding any bug reports, pull requests, etc.
 
 <!---
