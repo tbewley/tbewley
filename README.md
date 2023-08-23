@@ -3,7 +3,7 @@
 - I’m currently working on three textbooks (focusing on the first, #2 and 3 are currently on hold...):
 - 📖 <a href="http://robotics.ucsd.edu/rr.html">Renaissance Robotics: embedding multithreaded real-time feedback into mobile robots and cyber-physical systems</a>,
 - 📖 <a href="http://robotics.ucsd.edu/nr.html">Numerical Renaissance: simulation, optimization, and control</a>
-- 📖 <a href="http://robotics.ucsd.edu/nr.html">Renaissance Packings: simulation, optimization, and control</a>
+- 📖 <a href="http://robotics.ucsd.edu/nr.html">Renaissance Packings</a>
 - The first is an undergraduate-level text, and the second and third are graduate-level texts.
 - I am using this github repository to store all the codes I develop associated with these three projects (<a href="https://github.com/tbewley/RR">RR</a>, <a href="https://github.com/tbewley/NR">NR</a>, <a href="https://github.com/tbewley/NR">RP</a>).
 - In addition (time permitting), I may post various other projects here that I'd like to share with the world. 
