@@ -8,7 +8,7 @@
 - I am using the consolidated Renaissance Repository (<a href="https://github.com/tbewley/RR">RR</a>) on Github to distribute all of the codes I develop associated with these four major projects, which are tightly coupled and cross referenced.
 - I have also posted here a codebase for the simulation of tensegrity systems, dubbed <a href="https://github.com/tbewley/TenSim">TenSim</a>.
 - 📫 For bug reports related to the codes, I prefer normal github style pull requests. Please reach out to me at tbewley@ucsd.edu with book typos/suggestions, broken links, and other questions/suggestions.
-- Parting thoughts:
+- Parting thoughts:<BR>
   <center>Data is not information.</center>
   <center>Information is not knowledge.</center>
   <center>Knowledge is not understanding.</center>
