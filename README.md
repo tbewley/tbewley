@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tbewley, aka Thomas Bewley.  I am a professor at UC San Diego, and the founder of <a href="https://www.renaissancerobotics.com/">Renaissance Robotics</a>.  More details on me are, including a full record of my education and visiting appointments, are in my <a href="http://robotics.ucsd.edu/CV.pdf">CV</a>.
+- 👋 Hi, I’m @tbewley, aka Thomas Bewley.  I am a professor at UC San Diego, and the founder of <a href="https://www.renaissancerobotics.com/">Renaissance Robotics</a>.  More details on me are, including links to my published papers, and a record of my education and visiting appointments, are in my <a href="http://robotics.ucsd.edu/CV.pdf">CV</a>.
 - I have four textbooks in my long term plan (focusing now mostly on the first, #2 and 3 will be finished in due course, #4 will be done eventually...):
 - 📖 <a href="http://robotics.ucsd.edu/SR.pdf">Structural Renaissance: a modern first course in engineering analysis and design</a> (SR),
 - 📖 <a href="http://robotics.ucsd.edu/RR.pdf">Renaissance Robotics: embedding multithreaded real-time feedback into mobile robots and cyber-physical systems</a> (RR),
