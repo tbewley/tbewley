@@ -4,8 +4,8 @@
 - 📖 <a href="http://robotics.ucsd.edu/RR.pdf">Renaissance Robotics: embedding multithreaded real-time feedback into mobile robots and cyber-physical systems</a> (RR),
 - 📖 <a href="http://robotics.ucsd.edu/NR.pdf">Numerical Renaissance: simulation, optimization, and control</a> (NR)
 - 📖 <a href="http://robotics.ucsd.edu/rp.html">Renaissance Packings: n-dimensional discretization for error correction, coordination, and search</a> (RP)
-- RR is an undergraduate-level introduction to a rigorous framework for analysis-based design of unmanned system; NR and RP are graduate-level treatises on numerical methods and lattice theory and their numerous applications.
-- I am using a consolidated Renaissance Repository (<a href="https://github.com/tbewley/RR">RR</a>) on Github to store all the codes I develop associated with these three major projects, which are fairly tightly coupled and cross referenced.
+- SR is designed for college freshmen-level text on statics, which sets the stage for the rest of the series. RR is an upper-level undergraduate study developing a rigorous framework for analysis-based design of unmanned system; NR and RP are graduate-level treatises on numerical methods and lattice theory and their numerous applications.
+- I am using a consolidated Renaissance Repository (<a href="https://github.com/tbewley/RR">RR</a>) on Github to distribute all of the codes I develop associated with these four major projects, which are tightly coupled and cross referenced.
 - I have also posted here a codebase for the simulation of tensegrity systems, dubbed <a href="https://github.com/tbewley/TenSim">TenSim</a>.
 - 📫 For bug reports related to the codes, I prefer normal github style pull requests.
 - 📫 Please reach out to me at tbewley@ucsd.edu with book typos/suggestions, broken links, and other questions/suggestions.
