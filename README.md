@@ -9,10 +9,10 @@
 - I have also posted here a codebase for the simulation of tensegrity systems, dubbed <a href="https://github.com/tbewley/TenSim">TenSim</a>.
 - 📫 For bug reports related to the codes, I prefer normal github style pull requests. Please reach out to me at tbewley@ucsd.edu with book typos/suggestions, broken links, and other questions/suggestions.
 - Parting thoughts:<BR>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Data is not information.<BR>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Information is not knowledge.<BR>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Knowledge is not understanding.<BR>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Understanding is not wisdom.<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Data is not information.</em><BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Information is not knowledge.</em><BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Knowledge is not understanding.</em><BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Understanding is not wisdom.</em><BR>
 
 <!---
 tbewley/tbewley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
